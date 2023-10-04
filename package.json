@@ -1,14 +1,14 @@
 {
-  "name": "ejemplo",
-  "version": "1.0.0",
-  "description": "esto es mi primer ejercicio en node.js",
-  "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "mike",
-  "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+  "description": "esto es mi primer ejercicio en node.js",
+  "license": "ISC",
+  "main": "app.js",
+  "name": "ejemplo",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "version": "1.0.0"
 }
